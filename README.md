@@ -3,13 +3,13 @@
 
 ### 🔧 Languages & Frameworks
 
-- **Languages**: Python, JavaScript, C++
+- **Languages**: Python, JavaScript, C++, PHP
 - **Frameworks**: Node.js, React, EJS, Express.js
-- **Databases**: PostgreSQL
+- **Databases**: PostgreSQL, MySQL, MongoDB
 
 ### 🌐 How to Reach Me
 
-<a href="https://www.instagram.com/yourusername">
+<a href="https://www.instagram.com/fznhhndy">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" style="width:100px; height:100px; margin-right:30px; alt="Instagram">
 </a>
 <a href="https://www.linkedin.com/in/fauzan-farras-hakim-budi-handoyo-89856521a/">
