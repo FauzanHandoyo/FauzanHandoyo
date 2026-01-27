@@ -1,4 +1,4 @@
-# Greetings, I'm [Fauzan] Farras Hakim Budi Handoyo
+# Greetings, I'm Fauzan 
 ## Studying Computer Engineering at Universitas Indonesia.
 
 ### 🔧 Languages & Frameworks
@@ -22,6 +22,7 @@
 <div style="padding: 40px 0 0 0; ">
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=fauzanhandoyo&show_icons=true)
+![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=fauzanhandoyo&type=languages)
 
 </div>
                                                                                    
