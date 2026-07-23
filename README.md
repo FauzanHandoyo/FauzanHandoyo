@@ -1,12 +1,6 @@
 # Greetings, I'm Fauzan 
 ## Studying Computer Engineering at Universitas Indonesia.
 
-### 🔧 Languages & Frameworks
-
-- **Languages**: Python, JavaScript, C++, PHP
-- **Frameworks**: Node.js, React, EJS, Express.js
-- **Databases**: PostgreSQL, MySQL, MongoDB
-
 ### 🌐 How to Reach Me
 
 <a href="https://www.instagram.com/fznhhndy">
@@ -21,7 +15,6 @@
                                                                 
 <div style="padding: 40px 0 0 0; ">
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=fauzanhandoyo&show_icons=true)
 ![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=fauzanhandoyo&type=languages)
 
 </div>
