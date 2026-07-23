@@ -1,4 +1,4 @@
-[Header](github-header-banner (1).png)
+[Header](github-header-banner.png)
 
 # Greetings, I'm Fauzan 
 ## Studying Computer Engineering at Universitas Indonesia.
