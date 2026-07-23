@@ -1,9 +1,6 @@
 ![Header](./github-header-banner.png)
 
-# Greetings, I'm Fauzan 
-## Studying Computer Engineering at Universitas Indonesia.
-
-### 🌐 How to Reach Me
+## 🌐 How to Reach Me
 
 <a href="https://www.instagram.com/fznhhndy">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" style="width:60px; height:60px; margin-right:30px; alt="Instagram">
