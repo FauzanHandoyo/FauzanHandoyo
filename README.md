@@ -18,6 +18,6 @@
 <div style="padding: 40px 0 0 0; ">
 
 ![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=fauzanhandoyo&type=languages)
-
+![Views](https://dynamic-repo-badges.vercel.app/svg/count/1/Repository%20Views/FauzanHandoyo)
 </div>
                                                                                    
