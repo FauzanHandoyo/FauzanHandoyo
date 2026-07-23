@@ -1,3 +1,5 @@
+[Header](github-header-banner(1).png)
+
 # Greetings, I'm Fauzan 
 ## Studying Computer Engineering at Universitas Indonesia.
 
