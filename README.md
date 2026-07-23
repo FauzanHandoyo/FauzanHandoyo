@@ -15,5 +15,7 @@
 <div style="padding: 40px 0 0 0; ">
 
 ![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=fauzanhandoyo&type=languages)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=FauzanHandoyo)](https://github.com/stats-organization/github-stats-extended)
+
 </div>
                                                                                    
